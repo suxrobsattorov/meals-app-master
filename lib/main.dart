@@ -52,7 +52,7 @@ class _AppState extends State<App> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
+        primarySwatch: Colors.pink,
         fontFamily: GoogleFonts.adventPro().fontFamily,
       ),
       // home: CategoriesScreen(
